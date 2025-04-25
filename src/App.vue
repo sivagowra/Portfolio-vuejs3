@@ -67,7 +67,5 @@
   }
 
   /* Add padding to the body content below the navbar */
-  .pt-[80px] {
-    padding-top: 80px; /* Adjust this based on your NavBar height */
-  }
+
 </style>
