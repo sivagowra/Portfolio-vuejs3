@@ -80,46 +80,6 @@ const Projects = ref([
         gitURL: '',
         webURL: ''
     },
-    {
-        id: 3,
-        category: 'web development',
-        image: 'src/assets/project.png',
-        title: 'project 1',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic tenetur quasi ipsam labore sapiente, accusamus necessitatibus laboriosam non voluptas inventore deserunt dolore modi ex, praesentium at provident nihil magni ratione!',
-        technologies: ['vue.js 3', 'vuex', 'Express'],
-        gitURL: '',
-        webURL: ''
-    },
-    {
-        id: 4,
-        category: 'Mobile App',
-        image: 'src/assets/mobile.jpg',
-        title: 'project 1',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic tenetur quasi ipsam labore sapiente, accusamus necessitatibus laboriosam non voluptas inventore deserunt dolore modi ex, praesentium at provident nihil magni ratione!',
-        technologies: ['vue.js 3', 'vuex', 'Express'],
-        gitURL: '',
-        webURL: ''
-    },
-    {
-        id: 5,
-        category: 'web development',
-        image: 'src/assets/project.png',
-        title: 'project 1',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic tenetur quasi ipsam labore sapiente, accusamus necessitatibus laboriosam non voluptas inventore deserunt dolore modi ex, praesentium at provident nihil magni ratione!',
-        technologies: ['vue.js 3', 'vuex', 'Express'],
-        gitURL: '',
-        webURL: ''
-    },
-    {
-        id: 6,
-        category: 'Mobile App',
-        image: 'src/assets/mobile.jpg',
-        title: 'project 1',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic tenetur quasi ipsam labore sapiente, accusamus necessitatibus laboriosam non voluptas inventore deserunt dolore modi ex, praesentium at provident nihil magni ratione!',
-        technologies: ['vue.js 3', 'vuex', 'Express'],
-        gitURL: '',
-        webURL: ''
-    }
 ]);
 
 const selectedCategory = ref('all');
