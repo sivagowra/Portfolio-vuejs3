@@ -7,6 +7,9 @@
     "url": "https://sivagowra.github.io/Portfolio-vuejs3/"
   },
   "type": "module",
+  "publishConfig": {
+    "@sivagowra:registry":"https://npm.pkg.github.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
