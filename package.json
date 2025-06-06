@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://sivagowra.github.io/Portfolio-vuejs3/"
+    "url": "git+https://github.com/sivagowra/Portfolio-vuejs3.git"
   },
   "type": "module",
   "publishConfig": {
