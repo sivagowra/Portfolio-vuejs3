@@ -63,7 +63,7 @@ const Projects = ref([
     {
         id: 1,
         category: 'web development',
-        image: 'src/assets/project.png',
+        image: '/Portfolio-vuejs3/src/assets/project.png',
         title: 'project 1',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic tenetur quasi ipsam labore sapiente, accusamus necessitatibus laboriosam non voluptas inventore deserunt dolore modi ex, praesentium at provident nihil magni ratione!',
         technologies: ['vue.js 3', 'vuex', 'Express'],
@@ -73,7 +73,7 @@ const Projects = ref([
     {
         id: 2,
         category: 'Mobile App',
-        image: 'src/assets/mobile.jpg',
+        image: '/Portfolio-vuejs3/src/assets/mobile.jpg',
         title: 'project 1',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic tenetur quasi ipsam labore sapiente, accusamus necessitatibus laboriosam non voluptas inventore deserunt dolore modi ex, praesentium at provident nihil magni ratione!',
         technologies: ['vue.js 3', 'vuex', 'Express'],
